@@ -248,7 +248,7 @@ btnlanguage.addEventListener("click", () => {
           <p>
 صفحة هبوط
 صفحة عرض منتجات منظمة وسريعة الاستجابة لشركة متخصصة في تصنيع
- الألومنيوم والزجاج. تتضمن معرض أعمال مصفى حسب الفئات，
+ الألومنيوم . تتضمن معرض أعمال مصفى حسب الفئات，
  مواصفات الفنيات والخامات، ونموذج تواصل سلس 
 لاستقبال استفسارات العملاء.
           </p>
@@ -598,7 +598,7 @@ document.querySelector("[type='submit']").textContent = "ارسال"
           <p>
  Landing Page
 A clean, responsive product showcase page
- for an aluminum & glass manufacturing business. 
+ for an aluminum manufacturing business. 
  Features a category-filtered gallery, material 
  specifications, and an intuitive contact form for
   client inquiries.
