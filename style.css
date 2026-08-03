@@ -614,8 +614,11 @@ display: none;
 .project-buttons {
   display: flex;
   gap: 15px;
-}
 
+}
+.project-buttons-Go{
+text-align: center;
+}
 /* ==========================================================================
    8. Timeline Section
    ========================================================================== */

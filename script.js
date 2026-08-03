@@ -236,10 +236,59 @@ btnlanguage.addEventListener("click", () => {
     <p class="section-subtitle">
 مجموعة من المشاريع الحديثة المتميزة والمنتجات الرقمية.
     </p>
-    <div class="projects-grid">
+
+
+
+          <div class="projects-grid">
+                  <div class="project-card glass">
+        <div class="project-image">
+          <img src="photos/project-1.Webp"  loading="lazy"></div>
+        <div class="project-content">
+          <h3>الراغب للألومنيوم</h3>
+          <p>
+صفحة هبوط
+صفحة عرض منتجات منظمة وسريعة الاستجابة لشركة متخصصة في تصنيع
+ الألومنيوم والزجاج. تتضمن معرض أعمال مصفى حسب الفئات،
+ مواصفات الفنيات والخامات، ونموذج تواصل سلس 
+لاستقبال استفسارات العملاء.
+          </p>
+          <div class="tags">
+            <span class="tag">HTML</span>
+            <span class="tag">CSS</span>
+            <span class="tag">JavaScript</span>
+          </div>
+          <div class="project-buttons-Go">
+            <a  href="https://elraghib.vercel.app" target="_blank" class="btn btn-primary">Go To Website</a>
+          </div>
+        </div>
+      </div>
+
+
       <div class="project-card glass">
         <div class="project-image">
-          <img src="photos/prod-1.WebP"class="blur" loading="lazy">
+          <img src="photos/project-2.WebP"  loading="lazy"></div>
+        <div class="project-content">
+          <h3>متجر إلكتروني للإكسسوارات</h3>
+          <p>
+متجر حديث ومتجاوب عبر 
+الإنترنت لإكسسوارات الهواتف المحمولة، مصمم لتقديم تجربة
+ تسوق سلسة مع تخطيط منظم وواجهة سهلة الاستخدام
+          </p>
+          <div class="tags">
+            <span class="tag">HTML</span>
+            <span class="tag">CSS</span>
+            <span class="tag">JavaScript</span>
+          </div>
+          <div class="project-buttons">
+            <a href="https://shady-fathe.github.io/Accessories-store/" target="_blank" class="btn btn-primary">العرض المباشر</a>
+            <a href="https://github.com/shady-fathe/Accessories-store"  target="_blank" class="btn btn-outline">جيتهاب</a>
+          </div>
+        </div>
+      </div>
+
+            <div class="project-card glass">
+        <div class="project-image">
+          <img src="photos/project-3.WebP"class="blur" loading="lazy">
           <div class="working"><i class="fa-solid fa-gear loop"></i>
                  <p>قريبا</p>
           </div>
@@ -265,28 +314,7 @@ btnlanguage.addEventListener("click", () => {
 
       <div class="project-card glass">
         <div class="project-image">
-          <img src="photos/prod-2.WebP"  loading="lazy"></div>
-        <div class="project-content">
-          <h3>متجر إلكتروني للإكسسوارات</h3>
-          <p>
-متجر حديث ومتجاوب عبر 
-الإنترنت لإكسسوارات الهواتف المحمولة، مصمم لتقديم تجربة
- تسوق سلسة مع تخطيط منظم وواجهة سهلة الاستخدام
-          </p>
-          <div class="tags">
-            <span class="tag">HTML</span>
-            <span class="tag">CSS</span>
-            <span class="tag">JavaScript</span>
-          </div>
-          <div class="project-buttons">
-            <a href="https://shady-fathe.github.io/Accessories-store/" target="_blank" class="btn btn-primary">العرض المباشر</a>
-            <a href="https://github.com/shady-fathe/Accessories-store"  target="_blank" class="btn btn-outline">جيتهاب</a>
-          </div>
-        </div>
-      </div>
-      <div class="project-card glass">
-        <div class="project-image">
-          <img src="photos/prod-3.WebP" class="blur" loading="lazy">
+          <img src="photos/project-4.WebP" class="blur" loading="lazy">
           <div class="working"><i class="fa-solid fa-gear loop"></i>
                  <p>قريبا</p>
           </div>
@@ -312,6 +340,8 @@ btnlanguage.addEventListener("click", () => {
         </div>
       </div>
     </div>
+
+
   `;
     //  section Timeline
     seTimeline.innerHTML = `
@@ -555,33 +585,38 @@ document.querySelector("[type='submit']").textContent = "ارسال"
     <p class="section-subtitle">
       A collection of premium modern projects and digital products.
     </p>
+
+
     <div class="projects-grid">
+
+
       <div class="project-card glass">
         <div class="project-image">
-          <img src="photos/prod-1.WebP"class="blur" loading="lazy">
-          <div class="working"><i class="fa-solid fa-gear loop"></i>
-                 <p>Soon</p>
-          </div>
-        </div>
+          <img src="photos/project-1.WebP"  loading="lazy"></div>
         <div class="project-content">
-          <h3> Clothes Store</h3>
+          <h3>El-Raghib Aluminum</h3>
           <p>
-An interactive and fully responsive clothing store featuring category filtering, smooth animations, and a modern user experience for effortless browsing and shopping.
+ Landing Page
+A clean, responsive product showcase page
+ for an aluminum & glass manufacturing business. 
+ Features a category-filtered gallery, material 
+ specifications, and an intuitive contact form for
+  client inquiries.
           </p>
           <div class="tags">
             <span class="tag">HTML</span>
             <span class="tag">CSS</span>
             <span class="tag">JavaScript</span>
           </div>
-          <div class="project-buttons">
-            <a href="soon.html" target="_blank" class="btn btn-primary">Live Demo</a>
-            <a href="#"  target="_blank"  class="btn btn-outline">GitHub</a>
+          <div class="project-buttons-Go">
+            <a  href="https://elraghib.vercel.app" target="_blank" class="btn btn-primary">Go To Website</a>
           </div>
         </div>
       </div>
+
       <div class="project-card glass">
         <div class="project-image">
-          <img src="photos/prod-2.WebP"  loading="lazy"></div>
+          <img src="photos/project-2.WebP"  loading="lazy"></div>
         <div class="project-content">
           <h3>Accessories E-commerce Store</h3>
           <p>
@@ -596,19 +631,57 @@ layout and user-friendly interface.
           </div>
           <div class="project-buttons">
             <a href="https://shady-fathe.github.io/Accessories-store/" target="_blank" class="btn btn-primary">Live Demo</a>
-            <a href="https://github.com/shady-fathe/Accessories-store"  target="_blank" class="btn btn-outline">GitHub</a>
+            <a href="https://github.com/shady-fathe/Accessories-store" target="_blank" class="btn btn-outline">GitHub</a>
           </div>
         </div>
       </div>
+
       <div class="project-card glass">
         <div class="project-image">
-          <img src="photos/prod-3.WebP" class="blur" loading="lazy">
+          <img src="photos/project-3.WebP"class="blur" loading="lazy">
+          <div class="working"><i class="fa-solid fa-gear loop"></i>
+                 <p>Soon</p>
+          </div>
+        </div>
+
+        <div class="project-content">
+
+          <h3> Clothes Store</h3>
+
+          <p>
+An interactive and fully responsive clothing store
+ featuring category filtering, smooth animations,
+  and a modern user experience for effortless browsing 
+  and shopping.
+          </p>
+          <div class="tags">
+            <span class="tag">HTML</span>
+            <span class="tag">CSS</span>
+            <span class="tag">JavaScript</span>
+          </div>
+
+          <div class="project-buttons">
+            <a href="soon.html" target="_blank" class="btn btn-primary">Live Demo</a>
+            <a href="#" target="_blank" class="btn btn-outline">GitHub</a>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="project-card glass">
+
+        <div class="project-image">
+          <img src="photos/project-4.WebP" class="blur" loading="lazy">
           <div class="working"><i class="fa-solid fa-gear loop"></i>
                  <p>Soon</p>
           </div>
                 </div>
+
         <div class="project-content">
+
           <h3>Brush & Blusher</h3>
+
           <p>
      E-commerce Website for Skincare Products
      A professional online store for the
@@ -616,18 +689,24 @@ layout and user-friendly interface.
     and sell skincare products with a modern aesthetic
     and a smooth, user-friendly shopping experience.
           </p>
+
           <div class="tags">
             <span class="tag">HTML</span>
             <span class="tag">CSS</span>
             <span class="tag">JavaScript</span>
           </div>
+
           <div class="project-buttons">
             <a href="soon.html" target="_blank" class="btn btn-primary">Live Demo</a>
-            <a href="#"  target="_blank" class="btn btn-outline">GitHub</a>
+            <a href="#" target="_blank" class="btn btn-outline">GitHub</a>
           </div>
+
         </div>
+
       </div>
+
     </div>
+
   `;
     //  section Timeline
     seTimeline.innerHTML = `
