@@ -242,13 +242,13 @@ btnlanguage.addEventListener("click", () => {
           <div class="projects-grid">
                   <div class="project-card glass">
         <div class="project-image">
-          <img src="photos/project-1.WebP"  loading="lazy"></div>
+          <img src="photos/project-1.WebP"  loading="lazy"  alt="Project 1"></div>
         <div class="project-content">
           <h3>الراغب للألومنيوم</h3>
           <p>
 صفحة هبوط
 صفحة عرض منتجات منظمة وسريعة الاستجابة لشركة متخصصة في تصنيع
- الألومنيوم والزجاج. تتضمن معرض أعمال مصفى حسب الفئات،
+ الألومنيوم والزجاج. تتضمن معرض أعمال مصفى حسب الفئات，
  مواصفات الفنيات والخامات، ونموذج تواصل سلس 
 لاستقبال استفسارات العملاء.
           </p>
@@ -266,7 +266,7 @@ btnlanguage.addEventListener("click", () => {
 
       <div class="project-card glass">
         <div class="project-image">
-          <img src="photos/project-2.WebP"  loading="lazy"></div>
+          <img src="photos/project-2.WebP"  loading="lazy" alt="Project 2"></div>
         <div class="project-content">
           <h3>متجر إلكتروني للإكسسوارات</h3>
           <p>
@@ -288,7 +288,7 @@ btnlanguage.addEventListener("click", () => {
 
             <div class="project-card glass">
         <div class="project-image">
-          <img src="photos/project-3.WebP"class="blur" loading="lazy">
+          <img src="photos/project-3.WebP"class="blur" loading="lazy" alt="Project 3">
           <div class="working"><i class="fa-solid fa-gear loop"></i>
                  <p>قريبا</p>
           </div>
@@ -296,8 +296,8 @@ btnlanguage.addEventListener("click", () => {
         <div class="project-content">
           <h3>متجر ملابس</h3>
           <p>
-متجر ملابس تفاعلي ومتجاوب بالكامل،
- يتميز بخاصية تصفية المنتجات حسب الفئات، ورسوم متحركة سلسة،
+متجر ملابس تفاعلي ومتجاوب بالكامل，
+ يتميز بخاصية تصفية المنتجات حسب الفئات، ورسوم متحركة سلسة，
  وتجربة مستخدم حديثة تضمن تصفحاً وتسوقاً سهلاً ودون عناء.
 
           <div class="tags">
@@ -314,7 +314,7 @@ btnlanguage.addEventListener("click", () => {
 
       <div class="project-card glass">
         <div class="project-image">
-          <img src="photos/project-4.WebP" class="blur" loading="lazy">
+          <img src="photos/project-4.WebP" class="blur" loading="lazy" alt="Project 4">
           <div class="working"><i class="fa-solid fa-gear loop"></i>
                  <p>قريبا</p>
           </div>
@@ -592,7 +592,7 @@ document.querySelector("[type='submit']").textContent = "ارسال"
 
       <div class="project-card glass">
         <div class="project-image">
-          <img src="photos/project-1.WebP"  loading="lazy"></div>
+          <img src="photos/project-1.WebP"  loading="lazy" alt="Project 1"></div>
         <div class="project-content">
           <h3>El-Raghib Aluminum</h3>
           <p>
@@ -616,7 +616,7 @@ A clean, responsive product showcase page
 
       <div class="project-card glass">
         <div class="project-image">
-          <img src="photos/project-2.WebP"  loading="lazy"></div>
+          <img src="photos/project-2.WebP"  loading="lazy" alt="Project 2"></div>
         <div class="project-content">
           <h3>Accessories E-commerce Store</h3>
           <p>
@@ -638,7 +638,7 @@ layout and user-friendly interface.
 
       <div class="project-card glass">
         <div class="project-image">
-          <img src="photos/project-3.WebP"class="blur" loading="lazy">
+          <img src="photos/project-3.WebP"class="blur" loading="lazy" alt="Project 3">
           <div class="working"><i class="fa-solid fa-gear loop"></i>
                  <p>Soon</p>
           </div>
@@ -672,7 +672,7 @@ An interactive and fully responsive clothing store
       <div class="project-card glass">
 
         <div class="project-image">
-          <img src="photos/project-4.WebP" class="blur" loading="lazy">
+          <img src="photos/project-4.WebP" class="blur" loading="lazy" alt="Project 4">
           <div class="working"><i class="fa-solid fa-gear loop"></i>
                  <p>Soon</p>
           </div>
