@@ -242,7 +242,7 @@ btnlanguage.addEventListener("click", () => {
           <div class="projects-grid">
                   <div class="project-card glass">
         <div class="project-image">
-          <img src="photos/project-1.Webp"  loading="lazy"></div>
+          <img src="photos/project-1.WebP"  loading="lazy"></div>
         <div class="project-content">
           <h3>الراغب للألومنيوم</h3>
           <p>
