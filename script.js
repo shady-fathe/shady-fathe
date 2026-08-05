@@ -117,7 +117,7 @@ btnlanguage.addEventListener("click", () => {
         <span class="gradient-text">شادي فتحي </span>
       </h1>
 
-      <h3>مطور واجهات مستخدم (Front-End Web Developer)</h3>
+      <h4>مطور واجهات مستخدم (Front-End Developer)</h4>
 
 <p>
 أقوم بابتكار تجارب 
@@ -126,7 +126,7 @@ btnlanguage.addEventListener("click", () => {
 نظيفة ومخصصة للشركات الناشئة والعلامات التجارية الرقمية.
 </p>
       <div class="se-1-buttons">
-        <a href="#" class="btn btn-primary">
+        <a href="#contact" class="btn btn-primary">
           <i class="fa-solid fa-briefcase"></i>
           وظفني
         </a>
@@ -211,7 +211,7 @@ btnlanguage.addEventListener("click", () => {
         </p>
         <div class="about-info">
           <div class="info-box glass">
-            <h3>1.5+</h3>
+            <h3>2+</h3>
             <p>سنوات خبرة</p>
           </div>
           <div class="info-box glass">
@@ -219,7 +219,7 @@ btnlanguage.addEventListener("click", () => {
             <p>مشاريع</p>
           </div>
           <div class="info-box glass">
-            <h3>0+</h3>
+            <h3>1+</h3>
             <p>عملاء</p>
           </div>
         </div>
@@ -258,7 +258,7 @@ btnlanguage.addEventListener("click", () => {
             <span class="tag">JavaScript</span>
           </div>
           <div class="project-buttons-Go">
-            <a  href="https://elraghib.vercel.app" target="_blank" class="btn btn-primary">Go To Website</a>
+            <a  href="https://elraghib.com" target="_blank" class="btn btn-primary">الذهاب إلى الموقع</a>
           </div>
         </div>
       </div>
@@ -286,59 +286,7 @@ btnlanguage.addEventListener("click", () => {
         </div>
       </div>
 
-            <div class="project-card glass">
-        <div class="project-image">
-          <img src="photos/project-3.WebP"class="blur" loading="lazy" alt="Project 3">
-          <div class="working"><i class="fa-solid fa-gear loop"></i>
-                 <p>قريبا</p>
-          </div>
-        </div>
-        <div class="project-content">
-          <h3>متجر ملابس</h3>
-          <p>
-متجر ملابس تفاعلي ومتجاوب بالكامل，
- يتميز بخاصية تصفية المنتجات حسب الفئات، ورسوم متحركة سلسة，
- وتجربة مستخدم حديثة تضمن تصفحاً وتسوقاً سهلاً ودون عناء.
 
-          <div class="tags">
-            <span class="tag">HTML</span>
-            <span class="tag">CSS</span>
-            <span class="tag">JavaScript</span>
-          </div>
-          <div class="project-buttons">
-            <a href="soon.html" target="_blank" class="btn btn-primary">العرض المباشر </a>
-            <a href="#"  target="_blank" class="btn btn-outline">جيتهاب</a>
-          </div>
-        </div>
-      </div>
-
-      <div class="project-card glass">
-        <div class="project-image">
-          <img src="photos/project-4.WebP" class="blur" loading="lazy" alt="Project 4">
-          <div class="working"><i class="fa-solid fa-gear loop"></i>
-                 <p>قريبا</p>
-          </div>
-                </div>
-        <div class="project-content">
-          <h3>متجر مستحضرات تجميل</h3>
-          <p>
-موقع تجارة إلكترونية لمنتجات العناية بالبشرة:
-متجر احترافي عبر الإنترنت للعلامة التجارية (Brush & Blusher)،
- مصمم لعرض وبيع منتجات العناية
-  بالبشرة بلمسة جمالية حديثة وتجربة تسوق سلسة وسهلة الاستخدام.
-
-          </p>
-          <div class="tags">
-            <span class="tag">HTML</span>
-            <span class="tag">CSS</span>
-            <span class="tag">JavaScript</span>
-          </div>
-          <div class="project-buttons">
-            <a href="soon.html" target="_blank" class="btn btn-primary">العرض المباشر</a>
-            <a href="#"  target="_blank" class="btn btn-outline">جيتهاب</a>
-          </div>
-        </div>
-      </div>
     </div>
 
 
@@ -350,11 +298,12 @@ btnlanguage.addEventListener("click", () => {
       <div class="timeline-item">
         <div class="timeline-dot "></div>
         <div class="timeline-content glass ">
-          <h3>شهادة في تصميم الواجهات وتجربة المستخدم (UI/UX Certification)</h3>
+          <h3>تصميم الواجهات وتجربة المستخدم (UI/UX Design)</h3>
           <p>2024</p>
           <p>
-إتمام شهادة متقدمة في تصميم الـ UI/UX
- مع التركيز على مبادئ تصميم المنتجات الحديثة.
+تطبيق مبادئ تصميم المنتجات الحديثة，
+ وإنشاء النماذج الهيكلية الأولية (Wireframes)，
+ والتركيز على سهولة الاستخدام وإمكانية الوصول.
           </p>
         </div>
       </div>
@@ -394,11 +343,11 @@ btnlanguage.addEventListener("click", () => {
         <p>مشاريع مكتملة</p>
       </div>
       <div class="stat-card glass">
-        <h2>0+</h2>
+        <h2>1+</h2>
         <p>عملاء سعداء</p>
       </div>
       <div class="stat-card glass">
-        <h2>1+</h2>
+        <h2>2+</h2>
         <p>سنوات خبرة</p>
       </div>
       <div class="stat-card glass">
@@ -466,7 +415,7 @@ document.querySelector("[type='submit']").textContent = "ارسال"
         <span class="gradient-text">Shady Fathe</span>
       </h1>
 
-      <h3>Front-End Web Developer</h3>
+      <h4>Front-End  Developer</h4>
 
 <p>
   I create modern and visually engaging frontend experiences
@@ -474,7 +423,7 @@ document.querySelector("[type='submit']").textContent = "ارسال"
   designs for startups, and digital brands.
 </p>
       <div class="se-1-buttons">
-        <a href="#" class="btn btn-primary">
+        <a href="#contact" class="btn btn-primary">
           <i class="fa-solid fa-briefcase"></i>
           Hire Me
         </a>
@@ -568,7 +517,7 @@ document.querySelector("[type='submit']").textContent = "ارسال"
             <p>Projects</p>
           </div>
           <div class="info-box glass">
-            <h3>0+</h3>
+            <h3>1+</h3>
             <p>Clients</p>
           </div>
         </div>
@@ -609,7 +558,7 @@ A clean, responsive product showcase page
             <span class="tag">JavaScript</span>
           </div>
           <div class="project-buttons-Go">
-            <a  href="https://elraghib.vercel.app" target="_blank" class="btn btn-primary">Go To Website</a>
+            <a  href="https://elraghib.com" target="_blank" class="btn btn-primary">Go To Website</a>
           </div>
         </div>
       </div>
@@ -636,74 +585,6 @@ layout and user-friendly interface.
         </div>
       </div>
 
-      <div class="project-card glass">
-        <div class="project-image">
-          <img src="photos/project-3.WebP"class="blur" loading="lazy" alt="Project 3">
-          <div class="working"><i class="fa-solid fa-gear loop"></i>
-                 <p>Soon</p>
-          </div>
-        </div>
-
-        <div class="project-content">
-
-          <h3> Clothes Store</h3>
-
-          <p>
-An interactive and fully responsive clothing store
- featuring category filtering, smooth animations,
-  and a modern user experience for effortless browsing 
-  and shopping.
-          </p>
-          <div class="tags">
-            <span class="tag">HTML</span>
-            <span class="tag">CSS</span>
-            <span class="tag">JavaScript</span>
-          </div>
-
-          <div class="project-buttons">
-            <a href="soon.html" target="_blank" class="btn btn-primary">Live Demo</a>
-            <a href="#" target="_blank" class="btn btn-outline">GitHub</a>
-          </div>
-
-        </div>
-
-      </div>
-
-      <div class="project-card glass">
-
-        <div class="project-image">
-          <img src="photos/project-4.WebP" class="blur" loading="lazy" alt="Project 4">
-          <div class="working"><i class="fa-solid fa-gear loop"></i>
-                 <p>Soon</p>
-          </div>
-                </div>
-
-        <div class="project-content">
-
-          <h3>Brush & Blusher</h3>
-
-          <p>
-     E-commerce Website for Skincare Products
-     A professional online store for the
-    (Brush & Blusher) brand, designed to showcase
-    and sell skincare products with a modern aesthetic
-    and a smooth, user-friendly shopping experience.
-          </p>
-
-          <div class="tags">
-            <span class="tag">HTML</span>
-            <span class="tag">CSS</span>
-            <span class="tag">JavaScript</span>
-          </div>
-
-          <div class="project-buttons">
-            <a href="soon.html" target="_blank" class="btn btn-primary">Live Demo</a>
-            <a href="#" target="_blank" class="btn btn-outline">GitHub</a>
-          </div>
-
-        </div>
-
-      </div>
 
     </div>
 
@@ -715,13 +596,13 @@ An interactive and fully responsive clothing store
       <div class="timeline-item">
         <div class="timeline-dot "></div>
         <div class="timeline-content glass ">
-          <h3>UI/UX Certification</h3>
+          <h3>UI/UX Design</h3>
           <p>2024</p>
           <p>
-            Completed advanced UI/UX design certification with
-            modern product design principles.
-          </p>
-        </div>
+Applying modern product 
+design principles, creating wireframes,
+ and focusing on usability and accessibility.      
+    </p>        </div>
       </div>
 
       <div class="timeline-item">
@@ -759,11 +640,11 @@ An interactive and fully responsive clothing store
         <p>Projects Completed</p>
       </div>
       <div class="stat-card glass">
-        <h2>0+</h2>
+        <h2>1+</h2>
         <p>Happy Clients</p>
       </div>
       <div class="stat-card glass">
-        <h2>1+</h2>
+        <h2>2+</h2>
         <p>Years Experience</p>
       </div>
       <div class="stat-card glass">
