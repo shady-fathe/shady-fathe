@@ -148,7 +148,7 @@ btnlanguage.addEventListener("click", () => {
           <i class="fab fa-github"></i>
         </a>
 
-<a href="https://www.linkedin.com/in/shady-fathe-dev" class="glass" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/shady-fathe-1s" class="glass" target="_blank" rel="noopener noreferrer">
   <i class="fab fa-linkedin-in"></i>
 </a>
         <a href="https://wa.me/+201030263353" class="glass">
@@ -445,7 +445,7 @@ document.querySelector("[type='submit']").textContent = "ارسال"
           <i class="fab fa-github"></i>
         </a>
 
-<a href="https://www.linkedin.com/in/shady-fathe-dev" class="glass" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/shady-fathe-1s" class="glass" target="_blank" rel="noopener noreferrer">
   <i class="fab fa-linkedin-in"></i>
 </a>
         <a href="https://wa.me/+201030263353" class="glass">
