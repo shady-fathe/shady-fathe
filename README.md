@@ -28,17 +28,10 @@ I love building clean, fast, and user-friendly websites. My goal is to turn crea
 
 Here are some of my recent works:
 
-* 🪟 **[El-Raghib for Aluminum](https://elraghib.com):** A modern landing page and showcase website for an aluminum company. 
+* 🪟 **[ElRaghib for Aluminum](https://elraghib.com):** A modern landing page and showcase website for an aluminum company. 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shady-fathe&show_icons=true&theme=transparent&hide_border=true" />
-</div>
-
----
 
 ## 📬 Let's Connect
 
