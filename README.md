@@ -1,16 +1,25 @@
-## Hi there 👋
+# Shady Fathe
 
-<!--
-**shady-fathe/shady-fathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I'm **Shady Fathe**, a passionate Front-End Web Developer from Egypt.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+- **Location:** Egypt
+- **Role:** Front-End Web Developer
+- **Interests:** Web Development, Problem Solving, Open Source, UI/UX
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** HTML5 ,CSS , JavaScript , C++
+- **Frameworks / Libraries:** CSS => bootstrap 
+- **Tools & Hosting:** Git, GitHub, Vercel, Hostinger
+
+---
+
+## 🔗 Connect with Me
+
+- **Portfolio:** [shadyfathe.com](https://shadyfathe.com)
