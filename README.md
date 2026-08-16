@@ -1,37 +1,46 @@
+# 👋 Hi there! I'm Shady Fathe
+
+**Front-End Web Developer | Based in Egypt 🇪🇬**
+
+I love building clean, fast, and user-friendly websites. My goal is to turn creative designs into real, working web applications that look great on any screen.
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 **Role:** Freelance Front-End Developer
+- 🌍 **Location:** Giza, Egypt
+- 🚀 **What I do:** I build responsive websites and care about speed and SEO.
+- 🎯 **Current Focus:** Creating smooth user experiences with JavaScript.
+
+---
+
+## 🛠️ My Skills
+
+- **Web Technologies:** HTML5, CSS, JavaScript
+- **Frameworks & Libraries:** CSS => Bootstrap
+- **Tools:** Git, GitHub, Vercel, Hostinger
+- **Other:** C++, Problem Solving
+
+---
+
+## 📁 My Projects
+
+Here are some of my recent works:
+
+* 🪟 **[El-Raghib for Aluminum](https://elraghib.com):** A modern landing page and showcase website for an aluminum company. 
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-
-  <h1>⚡ Shady Fathe</h1>
-  <p><b>Front-End Engineer & Web Architect</b> • Based in Egypt 🇪🇬</p>
-
-  <p>
-    <i>Crafting high-performance, accessible, and pixel-perfect digital experiences.</i>
-  </p>
-
-  <p>
-    <a href="https://shadyfathe.com"><b>🌐 Visit Portfolio</b></a> •
-    <a href="https://elraghib.com"><b>🪟 Live Project (El-Raghib)</b></a>
-  </p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=shady-fathe&show_icons=true&theme=transparent&hide_border=true" />
 </div>
 
-<br />
-
 ---
 
-### 🎨 Architecture & Engineering Philosophy
+## 📬 Let's Connect
 
-* **Semantic & Accessible:** Building for all users using HTML5 semantics and strict ARIA standards.
-* **Performance First:** Obsessed with Core Web Vitals, Lighthouse scores, and minimal layout shifts.
-* **Modern Styling System:** Responsive design systems using Tailwind CSS, CSS Custom Properties, and fluid typography.
-* **Clean Code & Tooling:** Structured Git workflows, CI/CD with Vercel, and modular JavaScript architecture.
-
----
-
-### 🛠️ Tech Stack & Ecosystem
-
-```html
-Frontend Architecture
-├── Core           : JavaScript (ES6+), HTML5, CSS3/Sass
-├── Frameworks     : React.js
-├── UI & Styling   : Tailwind CSS, Bootstrap, Responsive Systems
-└── Performance    : Lighthouse, Web Vitals, SEO Optimization, OpenGraph
+- **Portfolio:** [shadyfathe.com](https://shadyfathe.com)
+- **Email:** shadyfathe0@gmail.com
