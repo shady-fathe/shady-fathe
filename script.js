@@ -131,7 +131,7 @@ btnlanguage.addEventListener("click", () => {
           وظفني
         </a>
 
-        <a href="shady-Fathe_CV.pdf" class="btn btn-outline">
+        <a href="Resume.pdf" class="btn btn-outline">
           <i class="fa-solid fa-download"></i>
           تنزيل السي في 
         </a>
@@ -428,7 +428,7 @@ document.querySelector("[type='submit']").textContent = "ارسال"
           Hire Me
         </a>
 
-        <a href="shady-Fathe_CV.pdf" class="btn btn-outline">
+        <a href="Resume.pdf" class="btn btn-outline">
           <i class="fa-solid fa-download"></i>
           Download CV
         </a>
