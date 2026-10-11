@@ -37,3 +37,4 @@ Here are some of my recent works:
 
 - **Portfolio:** [shadyfathe.com](https://shadyfathe.com)
 - **Email:** shadyfathe0@gmail.com
+- **Phone:** +201030263353
